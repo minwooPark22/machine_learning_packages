@@ -2,4 +2,4 @@
 ---
 This repo contains two machine learning algorithms
 1. polynomial regression
-2. perceptron
+2. logistic regression
